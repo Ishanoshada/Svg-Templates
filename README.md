@@ -98,6 +98,56 @@ https://ishan-rest.vercel.app/svg/banner/dev/IshanOshada
 https://ishan-rest.vercel.app/svg/banner/dev2/IshanOshada
 ```
 
+
+### 🛠️ Developer Banner 3
+
+<p align="center">
+<a href="https://ishan-oshada.vercel.app/">
+<img src="https://ishan-rest.vercel.app/svg/banner/dev3/IshanOshada" alt="Developer Banner 3">
+</a>
+</p>
+
+```bash
+https://ishan-rest.vercel.app/svg/banner/dev3/IshanOshada
+```
+
+### 🛠️ Developer Banner 4
+
+<p align="center">
+<a href="https://ishan-oshada.vercel.app/">
+<img src="https://ishan-rest.vercel.app/svg/banner/dev4/IshanOshada" alt="Developer Banner 4">
+</a>
+</p>
+
+```bash
+https://ishan-rest.vercel.app/svg/banner/dev4/IshanOshada
+```
+
+### 🛠️ Developer Banner 5
+
+<p align="center">
+<a href="https://ishan-oshada.vercel.app/">
+<img src="https://ishan-rest.vercel.app/svg/banner/dev5/IshanOshada" alt="Developer Banner 5">
+</a>
+</p>
+
+```bash
+https://ishan-rest.vercel.app/svg/banner/dev5/IshanOshada
+```
+
+<!-- ### 🛠️ Developer Banner 6
+
+<p align="center">
+<a href="https://ishan-oshada.vercel.app/">
+<img src="https://ishan-rest.vercel.app/svg/banner/dev6/IshanOshada" alt="Developer Banner 6">
+</a>
+</p>
+
+```bash
+https://ishan-rest.vercel.app/svg/banner/dev6/IshanOshada
+``` -->
+
+
 ### 🌌 Hologram Banner
 
 <p align="center">
@@ -121,6 +171,19 @@ https://ishan-rest.vercel.app/svg/banner/hologram/IshanOshada
 ```bash
 https://ishan-rest.vercel.app/svg/banner/blackhole/IshanOshada
 ```
+
+### 🌌 Github Banner
+
+<p align="center">
+<a href="https://ishan-oshada.vercel.app/">
+<img src="https://ishan-rest.vercel.app/svg/banner/github" alt="github Banner" style=" width:50%;">
+</a>
+</p>
+
+```bash
+https://ishan-rest.vercel.app/svg/banner/github
+```
+
 <!-- 
 ### 🕳️ Blackhole Banner 2
 
@@ -142,7 +205,7 @@ To use these banners in your GitHub README, copy and paste the following markdow
 ```html
 <p align="center">
   <a href="https://ishan-oshada.vercel.app/">
-    <img src="https://ishan-rest.vercel.app/svg/banner/dev/text" alt="Banner">
+    <img src="https://ishan-rest.vercel.app/svg/banner/dev/text" alt="Banner" style="width:100%;">
   </a>
 </p>
 ```
