@@ -73,6 +73,21 @@ https://ishan-rest.vercel.app/svg/banner/hacker3/IshanOshada
 ```bash
 https://ishan-rest.vercel.app/svg/banner/creative/IshanOshada
 ```
+<!-- 
+### 🎨 File List Banner
+
+<p align="center">
+<a href="https://ishan-oshada.vercel.app/">
+<img src="https://ishan-rest.vercel.app/svg/banner/filelist/root[file1,filff,dfef,efwdfwe,fwefwefe]/" alt="File list">
+</a>
+</p>
+
+```bash
+https://ishan-rest.vercel.app/svg/banner/filelist/root[file1,filff,dfef,efwdfwe,fwefwefe]
+``` -->
+
+
+
 
 ### 🛠️ Developer Banner
 
@@ -135,18 +150,86 @@ https://ishan-rest.vercel.app/svg/banner/dev4/IshanOshada
 https://ishan-rest.vercel.app/svg/banner/dev5/IshanOshada
 ```
 
-<!-- ### 🛠️ Developer Banner 6
-
+ ### 🛠️ Developer Banner 7
 <p align="center">
 <a href="https://ishan-oshada.vercel.app/">
-<img src="https://ishan-rest.vercel.app/svg/banner/dev6/IshanOshada" alt="Developer Banner 6">
+<img src="https://ishan-rest.vercel.app/svg/banner/dev7/IshanOshada/description" alt="Developer Banner 7">
 </a>
 </p>
 
 ```bash
-https://ishan-rest.vercel.app/svg/banner/dev6/IshanOshada
-``` -->
+https://ishan-rest.vercel.app/svg/banner/dev7/IshanOshada/description
+``` 
 
+
+
+ ### 🛠️ Developer Banner 8
+<p align="center">
+<a href="https://ishan-oshada.vercel.app/">
+<img src="https://ishan-rest.vercel.app/svg/banner/dev8/IshanOshada/description" alt="Developer Banner 8">
+</a>
+</p>
+
+```bash
+https://ishan-rest.vercel.app/svg/banner/dev8/IshanOshada/description
+``` 
+
+
+ ### 🛠️ Developer Banner 10
+<p align="center">
+<a href="https://ishan-oshada.vercel.app/">
+<img src="https://ishan-rest.vercel.app/svg/banner/dev10/IshanOshada/description" alt="Developer Banner 10">
+</a>
+</p>
+
+```bash
+https://ishan-rest.vercel.app/svg/banner/dev10/IshanOshada/description
+``` 
+
+### 🛠️ Developer Banner 11
+<p align="center">
+<a href="https://ishan-oshada.vercel.app/">
+<img src="https://ishan-rest.vercel.app/svg/banner/dev11/IshanOshada" alt="Developer Banner 11">
+</a>
+</p>
+
+```bash
+https://ishan-rest.vercel.app/svg/banner/dev11/IshanOshada/
+``` 
+
+### 🛠️ Developer Banner 12
+<p align="center">
+<a href="https://ishan-oshada.vercel.app/">
+<img src="https://ishan-rest.vercel.app/svg/banner/dev12/IshanOshada" alt="Developer Banner 12">
+</a>
+</p>
+
+```bash
+https://ishan-rest.vercel.app/svg/banner/dev10/IshanOshada/
+``` 
+
+
+### 🛠️ Developer Banner 13
+<p align="center">
+<a href="https://ishan-oshada.vercel.app/">
+<img src="https://ishan-rest.vercel.app/svg/banner/dev13/IshanOshada" alt="Developer Banner 13">
+</a>
+</p>
+
+```bash
+https://ishan-rest.vercel.app/svg/banner/dev10/IshanOshada
+``` 
+<!-- 
+### 🛠️ Developer Banner 10
+<p align="center">
+<a href="https://ishan-oshada.vercel.app/">
+<img src="https://ishan-rest.vercel.app/svg/banner/dev14/IshanOshada" alt="Developer Banner 8">
+</a>
+</p>
+
+```bash
+https://ishan-rest.vercel.app/svg/banner/dev10/IshanOshada/description
+```  -->
 
 ### 🌌 Hologram Banner
 
@@ -189,12 +272,12 @@ https://ishan-rest.vercel.app/svg/banner/github
 
 <p align="center">
 <a href="https://ishan-oshada.vercel.app/">
-<img src="https://ishan-rest.vercel.app/svg/banner/blackhole2/IshanOshada" alt="Blackhole Banner 2">
+<img src="https://ishan-rest.vercel.app/svg/banner/blackhole2/" alt="Blackhole Banner 2">
 </a>
 </p>
 
 ```bash
-https://ishan-rest.vercel.app/svg/banner/blackhole2/IshanOshada
+https://ishan-rest.vercel.app/svg/banner/blackhole2/
 ``` -->
 
 ## 📌 Usage
