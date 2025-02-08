@@ -164,7 +164,7 @@ https://ishan-rest.vercel.app//svg/projects/hacker/Project_Alpha[A modern web ap
 
 ``` 
 
-### 🎨 Projects List Banner 3
+<!-- ### 🎨 Projects List Banner 3
 
 <p align="center">
 <a href="https://ishan-oshada.vercel.app/">
@@ -193,7 +193,7 @@ https://ishan-rest.vercel.app//svg/projects/dev3/CodeMaster[desc:Advanced code e
 ``` 
 
 
-
+ -->
 
 
 ### 🛠️ Developer Banner 3
