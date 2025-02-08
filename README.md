@@ -6,8 +6,7 @@
 </a>
 
 <a href="https://ishan-oshada.vercel.app/">
-<img src="https://ishan-rest.vercel.app//svg/projects/dev/Project_Alpha[A modern web app,[Python,React,JavaScript]]/Project_Beta[ML pipeline,[Python,TensorFlow,Flask]]/
-" alt="Projects list">
+<img src="https://ishan-rest.vercel.app//svg/projects/dev/Project_Alpha[A modern web app,[Python,React,JavaScript]]/Project_Beta[ML pipeline,[Python,TensorFlow,Flask]]/" alt="Projects list">
 </a>
 
 
