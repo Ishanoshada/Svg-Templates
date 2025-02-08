@@ -141,8 +141,7 @@ https://ishan-rest.vercel.app/svg/banner/dev2/IshanOshada
 
 <p align="center">
 <a href="https://ishan-oshada.vercel.app/">
-<img src="https://ishan-rest.vercel.app//svg/projects/dev/Project_Alpha[A modern web app,[Python,React,JavaScript]]/Project_Beta[ML pipeline,[Python,TensorFlow,Flask]]/
-" alt="Project list">
+<img src="https://ishan-rest.vercel.app//svg/projects/dev/Project_Alpha[A modern web app,[Python,React,JavaScript]]/Project_Beta[ML pipeline,[Python,TensorFlow,Flask]]/" alt="Project list">
 </a>
 </p>
 
@@ -156,8 +155,7 @@ https://ishan-rest.vercel.app//svg/projects/dev/Project_Alpha[A modern web app,[
 
 <p align="center">
 <a href="https://ishan-oshada.vercel.app/">
-<img src="https://ishan-rest.vercel.app//svg/projects/hacker/Project_Alpha[A modern web app,[Python,React,JavaScript]]/Project_Beta[ML pipeline,[Python,TensorFlow,Flask]]/
-" alt="Project list">
+<img src="https://ishan-rest.vercel.app//svg/projects/hacker/Project_Alpha[A modern web app,[Python,React,JavaScript]]/Project_Beta[ML pipeline,[Python,TensorFlow,Flask]]/" alt="Project list">
 </a>
 </p>
 
