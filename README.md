@@ -137,7 +137,7 @@ https://ishan-rest.vercel.app/svg/banner/dev2/IshanOshada
 ```
 
 
-### 🎨 Project List Banner 1
+### 🎨 Projects List Banner 1
 
 <p align="center">
 <a href="https://ishan-oshada.vercel.app/">
@@ -151,7 +151,7 @@ https://ishan-rest.vercel.app//svg/projects/dev/Project_Alpha[A modern web app,[
 ``` 
 
 
-### 🎨 Project List Banner 2
+### 🎨 Projects List Banner 2
 
 <p align="center">
 <a href="https://ishan-oshada.vercel.app/">
@@ -164,11 +164,11 @@ https://ishan-rest.vercel.app//svg/projects/hacker/Project_Alpha[A modern web ap
 
 ``` 
 
-### 🎨 Project List Banner 3
+### 🎨 Projects List Banner 3
 
 <p align="center">
 <a href="https://ishan-oshada.vercel.app/">
-<img src="https://ishan-rest.vercel.app//svg/projects/dev2/projects/CodeMaster[desc:Advanced code editor with AI,tech:Rust-WebAssembly-TypeScript]/DevOpsHub[desc:Container orchestration platform,tech:Go-Kubernetes-Docker]" alt="Project list">
+<img src="https://ishan-rest.vercel.app//svg/projects/dev2/projects/CodeMaster[desc:Advanced code editor with AI,tech:Rust-WebAssembly-TypeScript]/DevOpsHub[desc:Container orchestration platform,tech:Go-Kubernetes-Docker]/" alt="Project list">
 </a>
 </p>
 
@@ -179,11 +179,11 @@ https://ishan-rest.vercel.app//svg/projects/dev2/projects/CodeMaster[desc:Advanc
 
 
 
-### 🎨 Project List Banner 4
+### 🎨 Projects List Banner 4
 
 <p align="center">
 <a href="https://ishan-oshada.vercel.app/">
-<img src="https://ishan-rest.vercel.app//svg/projects/dev3/CodeMaster[desc:Advanced code editor with AI,tech:Rust-WebAssembly-TypeScript]/DevOpsHub[desc:Container orchestration platform,tech:Go-Kubernetes-Docker]" alt="Project list">
+<img src="https://ishan-rest.vercel.app//svg/projects/dev3/CodeMaster[desc:Advanced code editor with AI,tech:Rust-WebAssembly-TypeScript]/DevOpsHub[desc:Container orchestration platform,tech:Go-Kubernetes-Docker]/" alt="Project list">
 </a>
 </p>
 
