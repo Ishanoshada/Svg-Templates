@@ -371,3 +371,5 @@ Feel free to submit issues or pull requests to improve the banners or add new st
 
 This project is licensed under the MIT License.
 
+
+**Repository Views** ![Views](https://profile-counter.glitch.me/svgtemp/count.svg)
