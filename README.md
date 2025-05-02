@@ -18,6 +18,13 @@
 This repository provides a collection of dynamic SVG banners/Templates for GitHub README files. These banners are hosted at **[ishan-rest.vercel.app](https://ishan-rest.vercel.app/)** and can be used in markdown or HTML.
 
 
+## 🌐 Live Demo
+
+Explore our **Dynamic Repository Views Badge Generator** in action! Visit the live demo to see real-time badge and banner examples, customize styles, and generate Markdown code for your GitHub repositories.
+
+👉 [**View Live Demo**](https://dynamic-repo-badges.vercel.app/)
+
+Try out styles like **Classic**, **Matrix**, **Black Hole Animated**, and more, and see how they enhance your repository's README or profile.
 
 
 ## 📌 Usage
